@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "João de Barro",
+        "cpf": "08808014141",
+        "email": "joaodebarro@msn.com",
+        "whatsapp": "4199699593",
+        "address":{
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number":"1000",
+            "details":"Apt 125",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Saci Perere",
+        "cpf": "08808df014141",
+        "email": "perereo@msn.com",
+        "whatsapp": "4195659593",
+        "address":{
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number":"2000",
+            "details":"Apt 100",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Tony Stark",
+        "cpf": "08808014141",
+        "email": "stark.msn.com",
+        "whatsapp": "4199699593",
+        "address":{
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number":"1000",
+            "details":"Apt 125",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method":"Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
